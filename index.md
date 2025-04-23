@@ -1,2 +1,2 @@
-#, # 
-this is s test
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+this is a image
